@@ -9,9 +9,7 @@ It is to be taken seriously, however. If you choose the wrong attack plan for co
 
 ## Showcase/Tutorial
 
-AxoDeaU kindly created a tutorial video which is embedded below.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jL0RFTukYEg?si=HGgcG4fQ3RpBKQ4N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+AxoDeaU kindly created a tutorial video that you can watch [here](https://www.youtube.com/watch?v=jL0RFTukYEg&t=2s)
 
 ## Installation
 
